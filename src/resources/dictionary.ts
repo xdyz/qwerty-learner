@@ -4,6 +4,17 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'custom spoken english',
+    name: '自学英语',
+    description: '自学英语',
+    category: '中国考试',
+    tags: ['基础英语'],
+    url: '/dicts/custom_spoken_english.json',
+    length: 2607,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
