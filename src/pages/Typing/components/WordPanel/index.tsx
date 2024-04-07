@@ -21,6 +21,8 @@ export default function WordPanel() {
   const [currentWordExerciseCount, setCurrentWordExerciseCount] = useState(0)
   const { times: loopWordTimes } = useAtomValue(loopWordConfigAtom)
   const currentWord = state.chapterData.words[state.chapterData.index]
+  console.log('state.chapterData.words', state.chapterData.words)
+  console.log('state.chapterData.index', state.chapterData.index)
   const nextWord = state.chapterData.words[state.chapterData.index + 1] as Word | undefined
 
   const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
