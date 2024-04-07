@@ -32,7 +32,7 @@
   {
     "name": "break",
     "trans": [
-      "组织"
+      "v. 阻止"
     ]
   },
   {
@@ -44,7 +44,13 @@
   {
     "name": "go",
     "trans": [
-      "v. 走"
+      "v. 去，走"
+    ]
+  },
+  {
+    "name": "come",
+    "trans": [
+      "v. 来"
     ]
   },
   {
@@ -69,6 +75,12 @@
     "name": "fall",
     "trans": [
       "v. 下落"
+    ]
+  },
+  {
+    "name": "bring",
+    "trans": [
+      "v. 带、带来"
     ]
   },
   {
@@ -219,6 +231,54 @@
     "name": "day",
     "trans": [
       "n. 日、天"
+    ]
+  },
+  {
+    "name": "sunrise",
+    "trans": [
+      "n. 日出、黎明"
+    ]
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "n. 早上"
+    ]
+  },
+  {
+    "name": "noon",
+    "trans": [
+      "n. 中午"
+    ]
+  },
+  {
+    "name": "afternoon",
+    "trans": [
+      "n. 下午"
+    ]
+  },
+  {
+    "name": "sunset",
+    "trans": [
+      "n. 日落"
+    ]
+  },
+  {
+    "name": "evening",
+    "trans": [
+      "n. 晚上、傍晚"
+    ]
+  },
+  {
+    "name": "night",
+    "trans": [
+      "n. 夜晚"
+    ]
+  },
+  {
+    "name": "midnight",
+    "trans": [
+      "n. 午夜"
     ]
   },
   {
@@ -420,6 +480,18 @@
     ]
   },
   {
+    "name": "bra",
+    "trans": [
+      "n. 胸罩"
+    ]
+  },
+  {
+    "name": "underwear",
+    "trans": [
+      "n. 内衣"
+    ]
+  },
+  {
     "name": "shirt",
     "trans": [
       "n. 衬衫"
@@ -459,6 +531,48 @@
     "name": "jeans",
     "trans": [
       "n. 牛仔裤"
+    ]
+  },
+  {
+    "name": "dress",
+    "trans": [
+      "n. 连衣裙"
+    ]
+  },
+  {
+    "name": "evening dress",
+    "trans": [
+      "n. 女士晚礼服"
+    ]
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "n. 裙子"
+    ]
+  },
+  {
+    "name": "briefs",
+    "trans": [
+      "n. 内裤"
+    ]
+  },
+  {
+    "name": "socks",
+    "trans": [
+      "n. 袜子"
+    ]
+  },
+  {
+    "name": "shoes",
+    "trans": [
+      "n. 鞋子"
+    ]
+  },
+  {
+    "name": "boots",
+    "trans": [
+      "n. 靴子"
     ]
   }
 ]
