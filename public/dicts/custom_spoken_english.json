@@ -2,19 +2,463 @@
   {
     "name": "take",
     "trans": [
-      "拿（核心意）"
+      "v. 拿"
+    ]
+  },
+  {
+    "name": "take off",
+    "trans": [
+      "v. 脱掉"
     ]
   },
   {
     "name": "drop",
     "trans": [
-      "掉、落、投（核心意）"
+      "掉、落、投"
     ]
   },
   {
     "name": "throw",
     "trans": [
-      "扔（核心意）"
+      "v. 扔"
+    ]
+  },
+  {
+    "name": "call",
+    "trans": [
+      "v. 呼唤"
+    ]
+  },
+  {
+    "name": "break",
+    "trans": [
+      "组织"
+    ]
+  },
+  {
+    "name": "look",
+    "trans": [
+      "v. 看"
+    ]
+  },
+  {
+    "name": "go",
+    "trans": [
+      "v. 走"
+    ]
+  },
+  {
+    "name": "get",
+    "trans": [
+      "v. 整"
+    ]
+  },
+  {
+    "name": "give",
+    "trans": [
+      "v. 给"
+    ]
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "v. 调、转"
+    ]
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "v. 下落"
+    ]
+  },
+  {
+    "name": "Time",
+    "trans": [
+      "n. 时间（统称）"
+    ]
+  },
+  {
+    "name": "century",
+    "trans": [
+      "n. 世纪"
+    ]
+  },
+  {
+    "name": "year",
+    "trans": [
+      "n. 年"
+    ]
+  },
+  {
+    "name": "month",
+    "trans": [
+      "n. 月"
+    ]
+  },
+  {
+    "name": "January",
+    "trans": [
+      "n. 一月"
+    ]
+  },
+  {
+    "name": "February",
+    "trans": [
+      "n. 二月"
+    ]
+  },
+  {
+    "name": "March",
+    "trans": [
+      "n. 三月"
+    ]
+  },
+  {
+    "name": "April",
+    "trans": [
+      "n. 四月"
+    ]
+  },
+  {
+    "name": "May",
+    "trans": [
+      "n. 五月"
+    ]
+  },
+  {
+    "name": "June",
+    "trans": [
+      "n. 六月"
+    ]
+  },
+  {
+    "name": "July",
+    "trans": [
+      "n. 七月"
+    ]
+  },
+  {
+    "name": "August",
+    "trans": [
+      "n. 八月"
+    ]
+  },
+  {
+    "name": "October",
+    "trans": [
+      "n. 九月"
+    ]
+  },
+  {
+    "name": "September",
+    "trans": [
+      "n. 十月"
+    ]
+  },
+  {
+    "name": "December",
+    "trans": [
+      "n. 十一月"
+    ]
+  },
+  {
+    "name": "November",
+    "trans": [
+      "n. 十二月"
+    ]
+  },
+  {
+    "name": "week",
+    "trans": [
+      "n. 周"
+    ]
+  },
+  {
+    "name": "Monday",
+    "trans": [
+      "n. 星期一"
+    ]
+  },
+  {
+    "name": "Tuesday",
+    "trans": [
+      "n. 星期二"
+    ]
+  },
+  {
+    "name": "Wednesday",
+    "trans": [
+      "n. 星期三"
+    ]
+  },
+  {
+    "name": "Thursday",
+    "trans": [
+      "n. 星期四"
+    ]
+  },
+  {
+    "name": "Friday",
+    "trans": [
+      "n. 星期五"
+    ]
+  },
+  {
+    "name": "Staturday",
+    "trans": [
+      "n. 星期六"
+    ]
+  },
+  {
+    "name": "Sunday",
+    "trans": [
+      "n. 星期天"
+    ]
+  },
+  {
+    "name": "day",
+    "trans": [
+      "n. 日、天"
+    ]
+  },
+  {
+    "name": "hour",
+    "trans": [
+      "n. 小时"
+    ]
+  },
+  {
+    "name": "minute",
+    "trans": [
+      "n. 分钟"
+    ]
+  },
+  {
+    "name": "second",
+    "trans": [
+      "n. 秒"
+    ]
+  },
+  {
+    "name": "hair",
+    "trans": [
+      "n. 头发"
+    ]
+  },
+  {
+    "name": "head",
+    "trans": [
+      "n. 头"
+    ]
+  },
+  {
+    "name": "forehead",
+    "trans": [
+      "n. 前额、额头"
+    ]
+  },
+  {
+    "name": "ear",
+    "trans": [
+      "n. 耳朵"
+    ]
+  },
+  {
+    "name": "eyebrow",
+    "trans": [
+      "n. 眉毛"
+    ]
+  },
+  {
+    "name": "eye",
+    "trans": [
+      "n. 眼睛"
+    ]
+  },
+  {
+    "name": "nose",
+    "trans": [
+      "n. 鼻子"
+    ]
+  },
+  {
+    "name": "tooth",
+    "trans": [
+      "n. 牙齿"
+    ]
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "n. 嘴巴"
+    ]
+  },
+  {
+    "name": "neck",
+    "trans": [
+      "n. 脖子"
+    ]
+  },
+  {
+    "name": "shoulder",
+    "trans": [
+      "n. 肩膀"
+    ]
+  },
+  {
+    "name": "chest",
+    "trans": [
+      "n. 胸、胸部"
+    ]
+  },
+  {
+    "name": "stomach",
+    "trans": [
+      "n. 胃、腹部"
+    ]
+  },
+  {
+    "name": "abdomen",
+    "trans": [
+      "n. 腹部"
+    ]
+  },
+  {
+    "name": "arm",
+    "trans": [
+      "n. 胳膊"
+    ]
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "n. 手"
+    ]
+  },
+  {
+    "name": "finger",
+    "trans": [
+      "n. 手指"
+    ]
+  },
+  {
+    "name": "elbow",
+    "trans": [
+      "n. 胳膊肘"
+    ]
+  },
+  {
+    "name": "leg",
+    "trans": [
+      "n. 腿"
+    ]
+  },
+  {
+    "name": "knee",
+    "trans": [
+      "n. 膝盖"
+    ]
+  },
+  {
+    "name": "foot",
+    "trans": [
+      "n. 脚"
+    ]
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "n. 脚趾"
+    ]
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "n. 脚趾"
+    ]
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "n. 脚趾"
+    ]
+  },
+  {
+    "name": "clothing",
+    "trans": [
+      "n. 服饰"
+    ]
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "n. 带帽檐的帽子"
+    ]
+  },
+  {
+    "name": "hat",
+    "trans": [
+      "n. 帽子（统称）"
+    ]
+  },
+  {
+    "name": "glasses",
+    "trans": [
+      "n. 眼镜"
+    ]
+  },
+  {
+    "name": "sunglasses",
+    "trans": [
+      "n. 太阳镜"
+    ]
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      "n. 围巾"
+    ]
+  },
+  {
+    "name": "shirt",
+    "trans": [
+      "n. 衬衫"
+    ]
+  },
+  {
+    "name": "T-shirt",
+    "trans": [
+      "n. 短袖"
+    ]
+  },
+  {
+    "name": "sweater",
+    "trans": [
+      "n. 毛衣"
+    ]
+  },
+  {
+    "name": "suit",
+    "trans": [
+      "n. 一整套西装"
+    ]
+  },
+  {
+    "name": "sleevless shirt",
+    "trans": [
+      "n. 无袖衬衣"
+    ]
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "n. 夹克"
+    ]
+  },
+  {
+    "name": "jeans",
+    "trans": [
+      "n. 牛仔裤"
     ]
   }
 ]
