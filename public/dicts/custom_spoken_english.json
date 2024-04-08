@@ -1975,5 +1975,33 @@
       "n. 音乐"
     ],
     "usphone": ""
+  },
+  {
+    "name": "P.E",
+    "trans": [
+      "n. 体育"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Economics",
+    "trans": [
+      "n. 经济学"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "English Literature",
+    "trans": [
+      "n. 英语文学"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Chinese Literfature",
+    "trans": [
+      "n. 汉语言文学"
+    ],
+    "usphone": ""
   }
 ]
