@@ -1625,5 +1625,355 @@
       "n. 彩虹、五颜六色"
     ],
     "usphone": ""
+  },
+  {
+    "name": "worker",
+    "trans": [
+      "n. 工人"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "n. 司机"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "inventor",
+    "trans": [
+      "n. 发明家"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "actor",
+    "trans": [
+      "n. 男演员"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "actress",
+    "trans": [
+      "n. 女演员"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "singer",
+    "trans": [
+      "n. 歌手"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "farmer",
+    "trans": [
+      "n. 农民"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "reporter",
+    "trans": [
+      "n. 记者"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "scientist",
+    "trans": [
+      "n. 科学家"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "artist",
+    "trans": [
+      "n. 艺术家"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dentist",
+    "trans": [
+      "n. 牙医"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "athlete",
+    "trans": [
+      "n. 运动员"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "musician",
+    "trans": [
+      "n. 音乐家"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "engineer",
+    "trans": [
+      "n. 工程师"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dancer",
+    "trans": [
+      "n. 舞者"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chef",
+    "trans": [
+      "n. 主厨"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cook",
+    "trans": [
+      "n. 厨师"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "waiter",
+    "trans": [
+      "n. 服务员、侍者"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bartender",
+    "trans": [
+      "n. 酒保"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pilot",
+    "trans": [
+      "n. 飞行员"
+    ],
+    "usphone": "'paɪlət"
+  },
+  {
+    "name": "flight attendant",
+    "trans": [
+      "n. 空少、空姐"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "teacher",
+    "trans": [
+      "n. 教师"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "astronaut",
+    "trans": [
+      "n. 宇航员"
+    ],
+    "usphone": "'æstrənɔːt"
+  },
+  {
+    "name": "surgeon",
+    "trans": [
+      "n. 外科医生"
+    ],
+    "usphone": "'sɜːrdʒən"
+  },
+  {
+    "name": "nurse",
+    "trans": [
+      "n. 护士"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "doctor",
+    "trans": [
+      "n. 医生"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "businessman",
+    "trans": [
+      "n. 商人"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "secretray",
+    "trans": [
+      "n. 秘书"
+    ],
+    "usphone": "'sekrəterɪ"
+  },
+  {
+    "name": "painter",
+    "trans": [
+      "n. 画家"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "detective",
+    "trans": [
+      "n. 侦探"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "architect",
+    "trans": [
+      "n. 建筑师"
+    ],
+    "usphone": "'ɑːrkɪtekt"
+  },
+  {
+    "name": "handyman",
+    "trans": [
+      "n. 修理工"
+    ],
+    "usphone": "'hændɪmæn"
+  },
+  {
+    "name": "construction worker",
+    "trans": [
+      "n. 建筑工人"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bellhop",
+    "trans": [
+      "n. 门童"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bellboy",
+    "trans": [
+      "n. 门童"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "police officer",
+    "trans": [
+      "n. 警察"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "policeman",
+    "trans": [
+      "n. 男警察、警察"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "policewoman",
+    "trans": [
+      "n. 女警察"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "boxer",
+    "trans": [
+      "n. 拳击手"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mailman",
+    "trans": [
+      "n. 邮递员、快递员"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Maths",
+    "trans": [
+      "n. 数学"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "English",
+    "trans": [
+      "n. 英语"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Biology",
+    "trans": [
+      "n. 生物"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Chemistry",
+    "trans": [
+      "n. 化学"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Physics",
+    "trans": [
+      "n. 物理"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Histroy",
+    "trans": [
+      "n. 历史"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Geography",
+    "trans": [
+      "n. 地理"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "French",
+    "trans": [
+      "n.  法语"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Art",
+    "trans": [
+      "n. 艺术"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Music",
+    "trans": [
+      "n. 音乐"
+    ],
+    "usphone": ""
   }
 ]
