@@ -480,6 +480,12 @@
     ]
   },
   {
+    "name": "bow tie",
+    "trans": [
+      "n. 蝴蝶结"
+    ]
+  },
+  {
     "name": "bra",
     "trans": [
       "n. 胸罩"
@@ -510,6 +516,12 @@
     ]
   },
   {
+    "name": "cardigan",
+    "trans": [
+      "n. 羊毛衫"
+    ]
+  },
+  {
     "name": "suit",
     "trans": [
       "n. 一整套西装"
@@ -528,9 +540,45 @@
     ]
   },
   {
+    "name": "bathrobe",
+    "trans": [
+      "n. 浴袍"
+    ]
+  },
+  {
+    "name": "long-sleeve top",
+    "trans": [
+      "n. 长袖上衣"
+    ]
+  },
+  {
+    "name": "cargo pants",
+    "trans": [
+      "n. 工装裤、宽松休闲裤"
+    ]
+  },
+  {
+    "name": "blazer",
+    "trans": [
+      "n. 西装外套"
+    ]
+  },
+  {
     "name": "jeans",
     "trans": [
       "n. 牛仔裤"
+    ]
+  },
+  {
+    "name": "trousers",
+    "trans": [
+      "n. 长裤"
+    ]
+  },
+  {
+    "name": "blouse",
+    "trans": [
+      "n. 女士衬衫"
     ]
   },
   {
@@ -564,9 +612,27 @@
     ]
   },
   {
+    "name": "flip flops",
+    "trans": [
+      "n. 人字拖"
+    ]
+  },
+  {
     "name": "shoes",
     "trans": [
       "n. 鞋子"
+    ]
+  },
+  {
+    "name": "sport shoes",
+    "trans": [
+      "n. 运动鞋"
+    ]
+  },
+  {
+    "name": "high heels",
+    "trans": [
+      "n. 细高跟鞋"
     ]
   },
   {
