@@ -3,121 +3,141 @@
     "name": "take",
     "trans": [
       "v. 拿"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "take off",
     "trans": [
       "v. 脱掉"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "drop",
     "trans": [
       "掉、落、投"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "throw",
     "trans": [
       "v. 扔"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "call",
     "trans": [
       "v. 呼唤"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "break",
     "trans": [
       "v. 阻止"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "look",
     "trans": [
       "v. 看"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "go",
     "trans": [
       "v. 去，走"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "come",
     "trans": [
       "v. 来"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "get",
     "trans": [
       "v. 整"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "give",
     "trans": [
       "v. 给"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "turn",
     "trans": [
       "v. 调、转"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "fall",
     "trans": [
       "v. 下落"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "bring",
     "trans": [
       "v. 带、带来"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Time",
     "trans": [
       "n. 时间（统称）"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "century",
     "trans": [
       "n. 世纪"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "year",
     "trans": [
       "n. 年"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "month",
     "trans": [
       "n. 月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "January",
     "trans": [
       "n. 一月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "February",
     "trans": [
       "n. 二月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "March",
@@ -129,73 +149,85 @@
     "name": "April",
     "trans": [
       "n. 四月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "May",
     "trans": [
       "n. 五月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "June",
     "trans": [
       "n. 六月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "July",
     "trans": [
       "n. 七月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "August",
     "trans": [
       "n. 八月"
-    ]
-  },
-  {
-    "name": "October",
-    "trans": [
-      "n. 九月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "September",
     "trans": [
-      "n. 十月"
-    ]
+      "n. 九月"
+    ],
+    "usphone": ""
   },
   {
-    "name": "December",
+    "name": "October",
     "trans": [
-      "n. 十一月"
-    ]
+      "n. 十月"
+    ],
+    "usphone": ""
   },
   {
     "name": "November",
     "trans": [
+      "n. 十一月"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "December",
+    "trans": [
       "n. 十二月"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "week",
     "trans": [
-      "n. 周"
-    ]
+      "n. 周、星期"
+    ],
+    "usphone": ""
   },
   {
     "name": "Monday",
     "trans": [
       "n. 星期一"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Tuesday",
     "trans": [
       "n. 星期二"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Wednesday",
@@ -207,43 +239,50 @@
     "name": "Thursday",
     "trans": [
       "n. 星期四"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Friday",
     "trans": [
       "n. 星期五"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Staturday",
     "trans": [
       "n. 星期六"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "Sunday",
     "trans": [
       "n. 星期天"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "day",
     "trans": [
       "n. 日、天"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "sunrise",
     "trans": [
       "n. 日出、黎明"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "morning",
     "trans": [
       "n. 早上"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "noon",
@@ -255,13 +294,15 @@
     "name": "afternoon",
     "trans": [
       "n. 下午"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "sunset",
     "trans": [
       "n. 日落"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "evening",
@@ -273,13 +314,15 @@
     "name": "night",
     "trans": [
       "n. 夜晚"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "midnight",
     "trans": [
       "n. 午夜"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "hour",
@@ -291,25 +334,29 @@
     "name": "minute",
     "trans": [
       "n. 分钟"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "second",
     "trans": [
       "n. 秒"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "hair",
     "trans": [
       "n. 头发"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "head",
     "trans": [
       "n. 头"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "forehead",
@@ -321,67 +368,78 @@
     "name": "ear",
     "trans": [
       "n. 耳朵"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "eyebrow",
     "trans": [
       "n. 眉毛"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "eye",
     "trans": [
       "n. 眼睛"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "nose",
     "trans": [
       "n. 鼻子"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "tooth",
     "trans": [
       "n. 牙齿"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "mouse",
     "trans": [
       "n. 嘴巴"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "neck",
     "trans": [
       "n. 脖子"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "shoulder",
     "trans": [
       "n. 肩膀"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "chest",
     "trans": [
       "n. 胸、胸部"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "stomach",
     "trans": [
       "n. 胃、腹部"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "abdomen",
     "trans": [
       "n. 腹部"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "arm",
@@ -393,19 +451,22 @@
     "name": "hand",
     "trans": [
       "n. 手"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "finger",
     "trans": [
       "n. 手指"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "elbow",
     "trans": [
       "n. 胳膊肘"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "leg",
@@ -417,13 +478,22 @@
     "name": "knee",
     "trans": [
       "n. 膝盖"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "foot",
     "trans": [
       "n. 脚"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "n. 脚趾"
+    ],
+    "usphone": ""
   },
   {
     "name": "toe",
@@ -435,91 +505,113 @@
     "name": "toe",
     "trans": [
       "n. 脚趾"
-    ]
-  },
-  {
-    "name": "toe",
-    "trans": [
-      "n. 脚趾"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "clothing",
     "trans": [
       "n. 服饰"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "cap",
     "trans": [
       "n. 带帽檐的帽子"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "hat",
     "trans": [
       "n. 帽子（统称）"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "glasses",
     "trans": [
       "n. 眼镜"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "sunglasses",
     "trans": [
       "n. 太阳镜"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "scarf",
     "trans": [
       "n. 围巾"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "bow tie",
     "trans": [
       "n. 蝴蝶结"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "bra",
     "trans": [
       "n. 胸罩"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "underwear",
     "trans": [
       "n. 内衣"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "shirt",
     "trans": [
       "n. 衬衫"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "T-shirt",
     "trans": [
       "n. 短袖"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "vest",
+    "trans": [
+      "n. 马甲"
+    ],
+    "usphone": ""
   },
   {
     "name": "sweater",
     "trans": [
       "n. 毛衣"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "polo shirt",
+    "trans": [
+      "n. polo 衫"
+    ],
+    "usphone": ""
   },
   {
     "name": "cardigan",
     "trans": [
       "n. 羊毛衫"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "suit",
@@ -531,114 +623,398 @@
     "name": "sleevless shirt",
     "trans": [
       "n. 无袖衬衣"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "singlet",
+    "trans": [
+      "n. 背心"
+    ],
+    "usphone": ""
   },
   {
     "name": "jacket",
     "trans": [
       "n. 夹克"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "bathrobe",
     "trans": [
       "n. 浴袍"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "long-sleeve top",
     "trans": [
       "n. 长袖上衣"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "gloves",
+    "trans": [
+      "n. 手套"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "belt",
+    "trans": [
+      "n. 皮带"
+    ],
+    "usphone": ""
   },
   {
     "name": "cargo pants",
     "trans": [
       "n. 工装裤、宽松休闲裤"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "blazer",
     "trans": [
       "n. 西装外套"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "jeans",
     "trans": [
       "n. 牛仔裤"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "trousers",
     "trans": [
       "n. 长裤"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "shorts",
+    "trans": [
+      "n. 短裤"
+    ],
+    "usphone": ""
   },
   {
     "name": "blouse",
     "trans": [
       "n. 女士衬衫"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "dress",
     "trans": [
       "n. 连衣裙"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "evening dress",
     "trans": [
       "n. 女士晚礼服"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "swimsuit",
+    "trans": [
+      "n. 女士泳衣"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "swimwear",
+    "trans": [
+      "n. 游泳衣"
+    ],
+    "usphone": ""
   },
   {
     "name": "skirt",
     "trans": [
       "n. 裙子"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "briefs",
     "trans": [
       "n. 内裤"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "socks",
     "trans": [
       "n. 袜子"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "flip flops",
     "trans": [
       "n. 人字拖"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sandals",
+    "trans": [
+      "n. 凉鞋、拖鞋"
+    ],
+    "usphone": ""
   },
   {
     "name": "shoes",
     "trans": [
       "n. 鞋子"
-    ]
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "business shoes",
+    "trans": [
+      "n. 商务鞋子、皮鞋"
+    ],
+    "usphone": ""
   },
   {
     "name": "sport shoes",
     "trans": [
       "n. 运动鞋"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "high heels",
     "trans": [
       "n. 细高跟鞋"
-    ]
+    ],
+    "usphone": ""
   },
   {
     "name": "boots",
     "trans": [
       "n. 靴子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "n. 苹果"
     ]
+  },
+  {
+    "name": "pineapple",
+    "trans": [
+      "n. 菠萝"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "n. 橘子、橙子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "apricot",
+    "trans": [
+      "n. 杏"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "avocado",
+    "trans": [
+      "n. 牛油果"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "banana",
+    "trans": [
+      "n. 香蕉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lemon",
+    "trans": [
+      "n. 柠檬"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "strawberry",
+    "trans": [
+      "n. 草莓"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "blackberry",
+    "trans": [
+      "n. 黑莓"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "blueberry",
+    "trans": [
+      "n. 蓝莓"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "melon",
+    "trans": [
+      "n. 甜瓜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "watermelon",
+    "trans": [
+      "n. 西瓜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cherry",
+    "trans": [
+      "n. 樱桃"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grape",
+    "trans": [
+      "n. 葡萄"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "peach",
+    "trans": [
+      "n. 桃子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "kiwi",
+    "trans": [
+      "n. 奇异果、猕猴桃"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cantaloupe",
+    "trans": [
+      "n. 罗马甜瓜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "coconut",
+    "trans": [
+      "n. 椰子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grapefruit",
+    "trans": [
+      "n. 葡萄柚"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lime",
+    "trans": [
+      "n. 酸橙"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mango",
+    "trans": [
+      "n. 芒果"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "papaya",
+    "trans": [
+      "n. 木瓜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "passion fruit",
+    "trans": [
+      "n. 火龙果"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pear",
+    "trans": [
+      "n. 梨"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "plum",
+    "trans": [
+      "n. 李子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pomegranate",
+    "trans": [
+      "n. 石榴"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rambutan",
+    "trans": [
+      "n. 红毛丹"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "raspberry",
+    "trans": [
+      "n. 覆盆子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tomato",
+    "trans": [
+      "n. 西红柿"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "broccoli",
+    "trans": [
+      "n. 西蓝花"
+    ],
+    "usphone": "'brɑːkəli"
   }
 ]

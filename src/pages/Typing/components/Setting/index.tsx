@@ -76,7 +76,7 @@ export default function Setting() {
 
                   <Tab.Group vertical>
                     <div className="flex h-120 w-full ">
-                      <Tab.List className="flex h-full w-52 flex-col items-start space-y-3  border-r border-neutral-100 bg-stone-50 px-6 py-3 dark:border-transparent dark:bg-gray-900">
+                      <Tab.List className="flex h-full w-52 flex-col items-start space-y-3 border-r border-neutral-100 bg-stone-50 px-6 py-3 dark:border-transparent dark:bg-gray-900">
                         <Tab
                           className={({ selected }) =>
                             classNames(
@@ -85,7 +85,7 @@ export default function Setting() {
                             )
                           }
                         >
-                          <IconEar className="mr-2 text-neutral-500  dark:text-neutral-300" />
+                          <IconEar className="mr-2 text-neutral-500 dark:text-neutral-300" />
                           <span className="text-neutral-500 dark:text-neutral-300 ">音效设置</span>
                         </Tab>
                         <Tab
@@ -96,7 +96,7 @@ export default function Setting() {
                             )
                           }
                         >
-                          <IconAdjustmentsHorizontal className="mr-2 text-neutral-500  dark:text-neutral-300" />
+                          <IconAdjustmentsHorizontal className="mr-2 text-neutral-500 dark:text-neutral-300" />
                           <span className="text-neutral-500 dark:text-neutral-300">高级设置</span>
                         </Tab>
                         <Tab
@@ -107,7 +107,7 @@ export default function Setting() {
                             )
                           }
                         >
-                          <IconEye className="mr-2 text-neutral-500  dark:text-neutral-300" />
+                          <IconEye className="mr-2 text-neutral-500 dark:text-neutral-300" />
                           <span className="text-neutral-500 dark:text-neutral-300">显示设置</span>
                         </Tab>
                         <Tab
@@ -118,13 +118,12 @@ export default function Setting() {
                             )
                           }
                         >
-                          <IconDatabaseCog className="mr-2 text-neutral-500  dark:text-neutral-300" />
+                          <IconDatabaseCog className="mr-2 text-neutral-500 dark:text-neutral-300" />
                           <span className="text-neutral-500 dark:text-neutral-300">数据设置</span>
                         </Tab>
                       </Tab.List>
-
                       <Tab.Panels className="h-full w-full flex-1">
-                        <Tab.Panel className="flex h-full w-full  focus:outline-none">
+                        <Tab.Panel className="flex h-full w-full focus:outline-none">
                           <SoundSetting />
                         </Tab.Panel>
                         <Tab.Panel className="flex h-full focus:outline-none">
