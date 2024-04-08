@@ -1016,5 +1016,614 @@
       "n. 西蓝花"
     ],
     "usphone": "'brɑːkəli"
+  },
+  {
+    "name": "cabbage",
+    "trans": [
+      "n. 卷心菜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "potato",
+    "trans": [
+      "n. 土豆"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sweet potato",
+    "trans": [
+      "n. 红薯"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pepper",
+    "trans": [
+      "n. 辣椒、辣椒面"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bell pepper",
+    "trans": [
+      "n. 灯笼椒"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cucumber",
+    "trans": [
+      "n. 黄瓜"
+    ],
+    "usphone": "'kjuːkʌmbər"
+  },
+  {
+    "name": "spring onion",
+    "trans": [
+      "n. 葱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cauliflower",
+    "trans": [
+      "n. 菜花"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "radish",
+    "trans": [
+      "n. 萝卜、白萝卜、红萝卜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "celery",
+    "trans": [
+      "n. 芹菜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "onion",
+    "trans": [
+      "n. 洋葱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pumpkin",
+    "trans": [
+      "n. 南瓜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mushroom",
+    "trans": [
+      "n. 蘑菇"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pea",
+    "trans": [
+      "n. 豌豆、豆角"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "eggplant",
+    "trans": [
+      "n. 茄子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "carrot",
+    "trans": [
+      "n. 胡萝卜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "garlic",
+    "trans": [
+      "n. 大蒜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "asparagus",
+    "trans": [
+      "n. 芦笋"
+    ],
+    "usphone": "ə'spærəɡəs"
+  },
+  {
+    "name": "corn",
+    "trans": [
+      "n. 玉米"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "butter",
+    "trans": [
+      "n. 黄油"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cheese",
+    "trans": [
+      "n. 干酪、奶酪"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ice cream",
+    "trans": [
+      "n. 冰激凌"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "milk",
+    "trans": [
+      "n. 奶、牛奶"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sour cream",
+    "trans": [
+      "n. 酸奶冰淇淋"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yogurt",
+    "trans": [
+      "n. 酸奶"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "coffee",
+    "trans": [
+      "n. 咖啡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "juice",
+    "trans": [
+      "n. 汁、果汁"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "soda",
+    "trans": [
+      "n. 苏打"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tea",
+    "trans": [
+      "n. 茶"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "water",
+    "trans": [
+      "n. 水"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sparkling water",
+    "trans": [
+      "n. 气泡水"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "soda water",
+    "trans": [
+      "n. 苏打水"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "nuts",
+    "trans": [
+      "n. 坚果"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "salad",
+    "trans": [
+      "n. 沙拉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "soup",
+    "trans": [
+      "n. 汤"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "vegetables",
+    "trans": [
+      "n. 蔬菜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bread",
+    "trans": [
+      "n. 面包"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cereal",
+    "trans": [
+      "n. 麦片"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "flour",
+    "trans": [
+      "n. 面粉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "noodles",
+    "trans": [
+      "n. 面条"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bacon",
+    "trans": [
+      "n. 培根"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beef",
+    "trans": [
+      "n. 牛肉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "n. 鸡、鸡肉、小鸡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "egg",
+    "trans": [
+      "n. 鸡蛋"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ham",
+    "trans": [
+      "n. 火腿"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "meat",
+    "trans": [
+      "n. 肉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pork",
+    "trans": [
+      "n. 猪肉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sausage",
+    "trans": [
+      "n. 香肠"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "caviar",
+    "trans": [
+      "n. 鱼子酱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "n. 鱼"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lobster",
+    "trans": [
+      "n. 龙虾"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "oyster",
+    "trans": [
+      "n. 牡蛎"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "seafood",
+    "trans": [
+      "n. 海鲜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "shrimp",
+    "trans": [
+      "n. 小虾"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "prawn",
+    "trans": [
+      "n. 对虾"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "burger",
+    "trans": [
+      "n. 汉堡包"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hamburger",
+    "trans": [
+      "n. 牛肉汉堡包、汉堡包"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hot dog",
+    "trans": [
+      "n. 热狗"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pizza",
+    "trans": [
+      "n. 披萨"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "popcorn",
+    "trans": [
+      "n. 爆米花"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "potato chips",
+    "trans": [
+      "n. 薯片"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "n. 三明治"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "n. 蛋糕"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "candy",
+    "trans": [
+      "n. 糖果"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chocolate",
+    "trans": [
+      "n. 巧克力"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cookie",
+    "trans": [
+      "n. 饼干、曲奇饼"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "donut",
+    "trans": [
+      "n. 甜甜圈"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "honey",
+    "trans": [
+      "n. 蜂蜜、宝贝"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "jam",
+    "trans": [
+      "n. 果酱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pie",
+    "trans": [
+      "n. 馅饼"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sugar",
+    "trans": [
+      "n. 糖"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mustard",
+    "trans": [
+      "n. 芥末酱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pepper",
+    "trans": [
+      "n. 胡椒、辣椒"
+    ],
+    "usphone": "'pepər"
+  },
+  {
+    "name": "salt",
+    "trans": [
+      "n. 盐"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sauce",
+    "trans": [
+      "n. 沙司、酱"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "blue",
+    "trans": [
+      "n. 蓝色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "purple",
+    "trans": [
+      "n. 紫色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "green",
+    "trans": [
+      "n. 绿色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "n. 黄色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "red",
+    "trans": [
+      "n. 红色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "white",
+    "trans": [
+      "n. 白色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "n. 橙色、橘黄色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pink",
+    "trans": [
+      "n. 粉色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "n. 棕色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "black",
+    "trans": [
+      "n. 黑色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "gray",
+    "trans": [
+      "n. 灰色"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rainbow",
+    "trans": [
+      "n. 彩虹、五颜六色"
+    ],
+    "usphone": ""
   }
 ]
