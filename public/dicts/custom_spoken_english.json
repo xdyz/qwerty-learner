@@ -2003,5 +2003,145 @@
       "n. 汉语言文学"
     ],
     "usphone": ""
+  },
+  {
+    "name": "book",
+    "trans": [
+      "n. 书"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pencil",
+    "trans": [
+      "n. 铅笔"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pen",
+    "trans": [
+      "n. 钢笔"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "laptop",
+    "trans": [
+      "n. 笔记本电脑"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pencil case",
+    "trans": [
+      "n. 铅笔盒"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dest",
+    "trans": [
+      "n. 办公桌"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "n. 椅子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "stool",
+    "trans": [
+      "n. 凳子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "school bag",
+    "trans": [
+      "n. 书包"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "n. 尺子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rubber",
+    "trans": [
+      "n. 橡皮"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "eraser",
+    "trans": [
+      "n. 橡皮擦"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "scissors",
+    "trans": [
+      "n. 剪刀"
+    ],
+    "usphone": "'sɪzərz"
+  },
+  {
+    "name": "classroom",
+    "trans": [
+      "n. 教室"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "playground",
+    "trans": [
+      "n. 操场（带游玩区的）、游乐场"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sports field",
+    "trans": [
+      "n. 操场（带跑道的）"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "library",
+    "trans": [
+      "n. 图书馆"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dormitory",
+    "trans": [
+      "n. 宿舍"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dining-hall",
+    "trans": [
+      "n. 食堂"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "office",
+    "trans": [
+      "n. 办公室"
+    ],
+    "usphone": ""
   }
 ]
