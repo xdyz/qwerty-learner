@@ -1860,14 +1860,14 @@
   {
     "name": "bellhop",
     "trans": [
-      "n. 门童"
+      "n. 门童 1"
     ],
     "usphone": ""
   },
   {
     "name": "bellboy",
     "trans": [
-      "n. 门童"
+      "n. 门童 2"
     ],
     "usphone": ""
   },
@@ -1942,7 +1942,7 @@
     "usphone": ""
   },
   {
-    "name": "Histroy",
+    "name": "History",
     "trans": [
       "n. 历史"
     ],
@@ -2313,7 +2313,7 @@
     "usphone": ""
   },
   {
-    "name": "shcool",
+    "name": "school",
     "trans": [
       "n. 学校"
     ],
@@ -2567,7 +2567,7 @@
   {
     "name": "hamster",
     "trans": [
-      "n. 鱼"
+      "n. 仓鼠"
     ],
     "usphone": "'hæmstər"
   },
