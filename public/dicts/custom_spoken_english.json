@@ -2143,5 +2143,180 @@
       "n. 办公室"
     ],
     "usphone": ""
+  },
+  {
+    "name": "airplane",
+    "trans": [
+      "n. 飞机"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "helicopter",
+    "trans": [
+      "n. 直升机"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "n. 公交车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "car",
+    "trans": [
+      "n. 轿车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "taxi",
+    "trans": [
+      "n. 出租车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lorry",
+    "trans": [
+      "n. 卡车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "van",
+    "trans": [
+      "n. 货车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "train",
+    "trans": [
+      "n. 火车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "subway",
+    "trans": [
+      "n. 地铁"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bicycle",
+    "trans": [
+      "n. 自行车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "motorbike",
+    "trans": [
+      "n. 摩托车"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yacht",
+    "trans": [
+      "n. 游艇"
+    ],
+    "usphone": "jɑːt"
+  },
+  {
+    "name": "ship",
+    "trans": [
+      "n. 船"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "boat",
+    "trans": [
+      "n. 舟"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "submarine",
+    "trans": [
+      "n. 潜艇"
+    ],
+    "usphone": "ˌsʌbmə'riːn"
+  },
+  {
+    "name": "bank",
+    "trans": [
+      "n. 银行"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "church",
+    "trans": [
+      "n. 教堂"
+    ],
+    "usphone": "tʃɜːrtʃ"
+  },
+  {
+    "name": "cinema",
+    "trans": [
+      "n. 电影院"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "gas station",
+    "trans": [
+      "n. 加油站"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hospital",
+    "trans": [
+      "n. 医院"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "post office",
+    "trans": [
+      "n. 邮局"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "police station",
+    "trans": [
+      "n. 警察局"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "n. 餐馆"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "shcool",
+    "trans": [
+      "n. 学校"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "supermarket",
+    "trans": [
+      "n. 超市"
+    ],
+    "usphone": ""
   }
 ]
