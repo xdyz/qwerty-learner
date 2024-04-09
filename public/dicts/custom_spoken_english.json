@@ -400,7 +400,7 @@
     "usphone": ""
   },
   {
-    "name": "mouse",
+    "name": "mouth",
     "trans": [
       "n. 嘴巴"
     ],
@@ -2250,6 +2250,13 @@
     "usphone": "ˌsʌbmə'riːn"
   },
   {
+    "name": "capital",
+    "trans": [
+      "n. 首都"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "bank",
     "trans": [
       "n. 银行"
@@ -2316,6 +2323,637 @@
     "name": "supermarket",
     "trans": [
       "n. 超市"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sister",
+    "trans": [
+      "n. 姐妹"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "little sister",
+    "trans": [
+      "n. 妹妹"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "big sister",
+    "trans": [
+      "n. 姐姐"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "brother",
+    "trans": [
+      "n. 兄弟"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "little brother",
+    "trans": [
+      "n. 弟弟"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "big brother",
+    "trans": [
+      "n. 哥哥"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "n. 母亲"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "father",
+    "trans": [
+      "n. 父亲"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "aunt",
+    "trans": [
+      "n. 阿姨、伯母"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "uncle",
+    "trans": [
+      "n. 叔叔"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "n. 爷爷"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grandmother",
+    "trans": [
+      "n. 奶奶"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "father-in-law",
+    "trans": [
+      "n. 公公、岳父"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mother-in-law",
+    "trans": [
+      "n. 婆婆，岳母"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beach",
+    "trans": [
+      "n. 海滩"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cloud",
+    "trans": [
+      "n. 云朵"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "flower",
+    "trans": [
+      "n. 花朵"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grass",
+    "trans": [
+      "n. 草"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "island",
+    "trans": [
+      "n. 岛"
+    ],
+    "usphone": "'aɪlənd"
+  },
+  {
+    "name": "lake",
+    "trans": [
+      "n. 湖"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "moon",
+    "trans": [
+      "n. 月亮"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mountain",
+    "trans": [
+      "n. 山"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "river",
+    "trans": [
+      "n. 河、江"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sea",
+    "trans": [
+      "n. 海"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rock",
+    "trans": [
+      "n. 岩石"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sky",
+    "trans": [
+      "n. 天空"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "stars",
+    "trans": [
+      "n. 星星"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "n. 太阳"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tree",
+    "trans": [
+      "n. 树"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "forest",
+    "trans": [
+      "n. 森林"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cat",
+    "trans": [
+      "n. 猫"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dog",
+    "trans": [
+      "n. 狗"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "n. 鱼"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "guinea pig",
+    "trans": [
+      "n. 豚鼠"
+    ],
+    "usphone": "'ɡɪnɪ pig"
+  },
+  {
+    "name": "hamster",
+    "trans": [
+      "n. 鱼"
+    ],
+    "usphone": "'hæmstər"
+  },
+  {
+    "name": "parrot",
+    "trans": [
+      "n. 鹦鹉"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "n. 兔子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tortoise",
+    "trans": [
+      "n. 乌龟"
+    ],
+    "usphone": "'tɔːrtəs"
+  },
+  {
+    "name": "bee",
+    "trans": [
+      "n. 蜜蜂"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bull",
+    "trans": [
+      "n. 公牛"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chick",
+    "trans": [
+      "n. 小鸡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cow",
+    "trans": [
+      "n. 奶牛、母牛"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "donkey",
+    "trans": [
+      "n. 驴"
+    ],
+    "usphone": "ˈdɑːŋki"
+  },
+  {
+    "name": "duck",
+    "trans": [
+      "n. 鸭子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "goat",
+    "trans": [
+      "n. 山羊"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "goose",
+    "trans": [
+      "n. 鹅"
+    ],
+    "usphone": "ɡuːs"
+  },
+  {
+    "name": "hen",
+    "trans": [
+      "n. 母鸡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rooster",
+    "trans": [
+      "n. 公鸡"
+    ],
+    "usphone": "'ruːstər"
+  },
+  {
+    "name": "horse",
+    "trans": [
+      "n. 马"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pig",
+    "trans": [
+      "n. 猪"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ram",
+    "trans": [
+      "n. 公羊"
+    ],
+    "usphone": "ræm"
+  },
+  {
+    "name": "sheep",
+    "trans": [
+      "n. 绵羊"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "turkey",
+    "trans": [
+      "n. 火鸡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ant",
+    "trans": [
+      "n. 蚂蚁"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beetle",
+    "trans": [
+      "n. 甲虫"
+    ],
+    "usphone": "'biːtl"
+  },
+  {
+    "name": "butterfly",
+    "trans": [
+      "n. 蝴蝶"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "caterpillar",
+    "trans": [
+      "n. 毛毛虫"
+    ],
+    "usphone": "'kætərpɪlər"
+  },
+  {
+    "name": "centipede",
+    "trans": [
+      "n. 蜈蚣"
+    ],
+    "usphone": "'sentɪpiːd"
+  },
+  {
+    "name": "cockroach",
+    "trans": [
+      "n. 蟑螂"
+    ],
+    "usphone": "ˈkɑːkroʊtʃ"
+  },
+  {
+    "name": "dragonfly",
+    "trans": [
+      "n. 蜻蜓"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fly",
+    "trans": [
+      "n. 苍蝇",
+      "v. 飞"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "grasshopper",
+    "trans": [
+      "n. 蚱蜢、蝗虫"
+    ],
+    "usphone": "ˈɡræshɑːpər"
+  },
+  {
+    "name": "ladybug",
+    "trans": [
+      "n. 瓢虫"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mosquito",
+    "trans": [
+      "n. 蚊子"
+    ],
+    "usphone": "məˈskiːtoʊ"
+  },
+  {
+    "name": "scorpion",
+    "trans": [
+      "n. 蝎子"
+    ],
+    "usphone": "ˈskɔːrpiən"
+  },
+  {
+    "name": "snail",
+    "trans": [
+      "n. 蜗牛"
+    ],
+    "usphone": "sneɪl"
+  },
+  {
+    "name": "spider",
+    "trans": [
+      "n. 蜘蛛"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "worm",
+    "trans": [
+      "n. 蠕虫"
+    ],
+    "usphone": "wɜːrm"
+  },
+  {
+    "name": "anteater",
+    "trans": [
+      "n. 食蚁兽"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bat",
+    "trans": [
+      "n. 蝙蝠"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "n. 熊"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beaver",
+    "trans": [
+      "n. 海狸"
+    ],
+    "usphone": "ˈbiːvər"
+  },
+  {
+    "name": "deer",
+    "trans": [
+      "n. 鹿"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fox",
+    "trans": [
+      "n. 狐狸"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hedgehog",
+    "trans": [
+      "n. 刺猬"
+    ],
+    "usphone": "ˈhedʒhɔːɡ"
+  },
+  {
+    "name": "moose",
+    "trans": [
+      "n. 麋鹿"
+    ],
+    "usphone": "muːs"
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "n. 老鼠（家里的）"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rat",
+    "trans": [
+      "n. 老鼠（野外的）"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "panda",
+    "trans": [
+      "n. 熊猫"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "raccoon",
+    "trans": [
+      "n. 浣熊"
+    ],
+    "usphone": "ræˈkuːn"
+  },
+  {
+    "name": "stunk",
+    "trans": [
+      "n. 臭鼬"
+    ],
+    "usphone": "skʌŋk"
+  },
+  {
+    "name": "sloth",
+    "trans": [
+      "n. 树懒"
+    ],
+    "usphone": "sloʊθ"
+  },
+  {
+    "name": "squirrel",
+    "trans": [
+      "n. 松鼠"
+    ],
+    "usphone": "ˈskwɜːrəl"
+  },
+  {
+    "name": "tiger",
+    "trans": [
+      "n. 老虎"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lion",
+    "trans": [
+      "n. 狮子"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "wolf",
+    "trans": [
+      "n. 狼"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "n. 大象"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "alligator",
+    "trans": [
+      "n. 短吻鳄"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Penguin",
+    "trans": [
+      "n. 企鹅"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "Polar bear",
+    "trans": [
+      "n. 北极熊"
     ],
     "usphone": ""
   }
