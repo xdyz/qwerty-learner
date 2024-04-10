@@ -2993,6 +2993,13 @@
     "usphone": ""
   },
   {
+    "name": "direction",
+    "trans": [
+      "n. 方位"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "tall",
     "trans": [
       "adj. 高的"
@@ -3014,6 +3021,13 @@
     "usphone": ""
   },
   {
+    "name": "chubby",
+    "trans": [
+      "adj. 微胖的"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "thin",
     "trans": [
       "adj. 瘦的"
@@ -3031,6 +3045,1035 @@
     "name": "young",
     "trans": [
       "adj. 年轻的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "adj. 美丽的、漂亮的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pretty",
+    "trans": [
+      "adj. 漂亮的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ugly",
+    "trans": [
+      "adj. 丑的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "healthy",
+    "trans": [
+      "adj. 健康的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "ill",
+    "trans": [
+      "adj. 生病的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sick",
+    "trans": [
+      "adj. 患病的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "strong",
+    "trans": [
+      "adj. 强壮的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "weak",
+    "trans": [
+      "adj. 虚弱的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "outgoing",
+    "trans": [
+      "adj. 开朗的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "shy",
+    "trans": [
+      "adj. 害羞的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "polite",
+    "trans": [
+      "adj. 有礼貌的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rude",
+    "trans": [
+      "adj. 粗鲁的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hard-working",
+    "trans": [
+      "adj. 勤奋的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lazy",
+    "trans": [
+      "adj. 懒惰的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "talkative",
+    "trans": [
+      "adj. 健谈的、爱说话的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "loud",
+    "trans": [
+      "adj. 大声的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "quite",
+    "trans": [
+      "adj. 安静的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "kind",
+    "trans": [
+      "adj. 和善的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "friendly",
+    "trans": [
+      "adj. 友好的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "unfriendly",
+    "trans": [
+      "adj. 不友好的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mean",
+    "trans": [
+      "adj. 刻薄的、吝啬的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "honest",
+    "trans": [
+      "adj. 诚实的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dishonest",
+    "trans": [
+      "adj. 不诚实的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "carreful",
+    "trans": [
+      "adj. 仔细的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "careless",
+    "trans": [
+      "adj. 粗心的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "exhausted",
+    "trans": [
+      "adj. 疲惫不堪的、精疲力竭的"
+    ],
+    "usphone": "ɪɡ'zɔːstɪd"
+  },
+  {
+    "name": "furious",
+    "trans": [
+      "adj. 狂怒的"
+    ],
+    "usphone": "'fjʊrɪəs"
+  },
+  {
+    "name": "carzy",
+    "trans": [
+      "adj. 疯狂的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "frightened",
+    "trans": [
+      "adj. 受惊的、担忧 的"
+    ],
+    "usphone": "'fraɪtnd"
+  },
+  {
+    "name": "surprised",
+    "trans": [
+      "adj. 惊喜的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "angry",
+    "trans": [
+      "adj. 生气的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "nervous",
+    "trans": [
+      "adj. 焦虑的、不安的、紧张的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lonely",
+    "trans": [
+      "adj. 孤单的、孤独的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sad",
+    "trans": [
+      "adj. 悲伤的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "happy",
+    "trans": [
+      "adj. 开心的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "relaxed",
+    "trans": [
+      "adj. 悠闲的、松懈的、放松的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "depressed",
+    "trans": [
+      "adj. 抑郁的、压抑的、沮丧的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "in love",
+    "trans": [
+      "adj. 坠入爱河的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "jealous",
+    "trans": [
+      "adj. 妒忌的、嫉妒的"
+    ],
+    "usphone": "ˈdʒeləs"
+  },
+  {
+    "name": "upset",
+    "trans": [
+      "adj. 心烦意乱的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "glad",
+    "trans": [
+      "adj. 高兴的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "unhappy",
+    "trans": [
+      "adj. 不高兴的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hungry",
+    "trans": [
+      "adj. 饿的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "thirsty",
+    "trans": [
+      "adj. 渴的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "full",
+    "trans": [
+      "adj. 饱的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "brave",
+    "trans": [
+      "adj. 勇敢的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "afraid",
+    "trans": [
+      "adj. 害怕的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "busy",
+    "trans": [
+      "adj. 忙碌的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "free",
+    "trans": [
+      "adj. 空闲的、自由的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "worried",
+    "trans": [
+      "adj. 忧虑的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "interested",
+    "trans": [
+      "adj. 感兴趣的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "excited",
+    "trans": [
+      "adj. 兴奋的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bored",
+    "trans": [
+      "adj. 无聊的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lively",
+    "trans": [
+      "adj. 生气勃勃的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tired",
+    "trans": [
+      "adj. 疲倦的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "calm",
+    "trans": [
+      "adj. 冷静的、镇静的、平静的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mad",
+    "trans": [
+      "adj. 气愤的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lucky",
+    "trans": [
+      "adj. 幸运的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "unlucky",
+    "trans": [
+      "adj. 不幸的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "comfortable",
+    "trans": [
+      "adj. 舒适的、舒服的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "uncomfortable",
+    "trans": [
+      "adj. 不舒适的、不舒服的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hopeful",
+    "trans": [
+      "adj. 有希望的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "holpless",
+    "trans": [
+      "adj. 绝望的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "right",
+    "trans": [
+      "adj. 对的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "wrong",
+    "trans": [
+      "adj. 错的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sunny",
+    "trans": [
+      "adj. 晴朗的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rainy",
+    "trans": [
+      "adj. 有雨的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cloudy",
+    "trans": [
+      "adj. 多云的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "foggy",
+    "trans": [
+      "adj. 有雾的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "icy",
+    "trans": [
+      "adj. 结冰的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "snowy",
+    "trans": [
+      "adj. 有雪的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "windy",
+    "trans": [
+      "adj. 有风的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "warm",
+    "trans": [
+      "adj. 暖和的、温暖的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "clear",
+    "trans": [
+      "adj. 清晰的、干净的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "colorful",
+    "trans": [
+      "adj. 多彩的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "brezzy",
+    "trans": [
+      "adj. 微风徐徐的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "lovely",
+    "trans": [
+      "adj. 令人愉快的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "hot",
+    "trans": [
+      "adj. 热的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "wet",
+    "trans": [
+      "adj. 潮湿的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "humid",
+    "trans": [
+      "adj. 湿润的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "bright",
+    "trans": [
+      "adj. 明亮的、明媚的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "nice",
+    "trans": [
+      "adj. 美好的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cool",
+    "trans": [
+      "adj. 凉爽的、出色的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cold",
+    "trans": [
+      "adj. 冷的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "gold",
+    "trans": [
+      "adj. 金黄的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dry",
+    "trans": [
+      "adj. 干燥的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mild",
+    "trans": [
+      "adj. 温和的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "chilly",
+    "trans": [
+      "adj. 寒冷的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "vivid",
+    "trans": [
+      "adj. 颜色鲜艳的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "frosty",
+    "trans": [
+      "adj. 严寒的、结霜的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "late",
+    "trans": [
+      "adj. 末尾的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "early",
+    "trans": [
+      "adj. 早期的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sweet",
+    "trans": [
+      "adj. 甜的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "salty",
+    "trans": [
+      "adj. 咸的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "sour",
+    "trans": [
+      "adj. 酸的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "spicy",
+    "trans": [
+      "adj. 辣的"
+    ],
+    "usphone": "'spaɪsɪ"
+  },
+  {
+    "name": "bitter",
+    "trans": [
+      "adj. 苦的"
+    ],
+    "usphone": "'bɪtər"
+  },
+  {
+    "name": "juicy",
+    "trans": [
+      "adj. 多汁的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "rich",
+    "trans": [
+      "adj. 富有的、油腻的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "creamy",
+    "trans": [
+      "adj. 奶油般柔滑的"
+    ],
+    "usphone": "'kriːmɪ"
+  },
+  {
+    "name": "crisp crispy",
+    "trans": [
+      "adj. 易碎的，脆的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "soft",
+    "trans": [
+      "adj. 软的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yummy",
+    "trans": [
+      "adj. 好吃的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "delicious",
+    "trans": [
+      "adj. 美味的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tasty",
+    "trans": [
+      "adj. 可口的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fresh",
+    "trans": [
+      "adj. 新鲜的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "stale",
+    "trans": [
+      "adj. 不新鲜的、发霉的"
+    ],
+    "usphone": "steɪl"
+  },
+  {
+    "name": "horrible",
+    "trans": [
+      "adj. 糟糕的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "awful",
+    "trans": [
+      "adj. 糟透的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "special",
+    "trans": [
+      "adj. 特别的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "adj. 传统的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "adj. 著名的"
+    ],
+    "usphone": "'feɪməs"
+  },
+  {
+    "name": "large",
+    "trans": [
+      "adj. 大的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "small little",
+    "trans": [
+      "adj. 小的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cute",
+    "trans": [
+      "adj. 可爱的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "furry",
+    "trans": [
+      "adj. 毛茸茸的"
+    ],
+    "usphone": "'fɜːrɪ"
+  },
+  {
+    "name": "clever",
+    "trans": [
+      "adj. 聪明的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "silly",
+    "trans": [
+      "adj. 笨笨的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "stupid",
+    "trans": [
+      "adj. 愚蠢的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "funny",
+    "trans": [
+      "adj. 好玩的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "loyal",
+    "trans": [
+      "adj. 忠诚的"
+    ],
+    "usphone": "'lɔɪəl"
+  },
+  {
+    "name": "clean",
+    "trans": [
+      "adj. 干净的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "dirty",
+    "trans": [
+      "adj. 脏的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "north",
+    "trans": [
+      "adj. 北方的、北"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "south",
+    "trans": [
+      "adj. 南方的、南"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "west",
+    "trans": [
+      "adj. 西方的、西"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "east",
+    "trans": [
+      "adj. 东方的、东"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "northwest",
+    "trans": [
+      "adj. 西北的、西北部的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "northeast",
+    "trans": [
+      "adj. 东北的、东北部的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "southeast",
+    "trans": [
+      "adj. 东南的、东南部的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "southwest",
+    "trans": [
+      "adj. 西南的、西南部的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "far",
+    "trans": [
+      "adj. 远的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "close",
+    "trans": [
+      "adj. 近的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "long",
+    "trans": [
+      "adj. 长的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "short",
+    "trans": [
+      "adj. 短的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "same",
+    "trans": [
+      "adj. 相同的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "different",
+    "trans": [
+      "adj. 不同的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "cheap",
+    "trans": [
+      "adj. 便宜的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "expensive",
+    "trans": [
+      "adj. 昂贵的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "pleasant",
+    "trans": [
+      "adj. 使人快乐的、令人满意的"
+    ],
+    "usphone": "'pleznt"
+  },
+  {
+    "name": "wonderful",
+    "trans": [
+      "adj. 奇妙的、非凡的、极好的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "amazingµ",
+    "trans": [
+      "adj. 令人惊愕的、令人惊奇的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "awesome",
+    "trans": [
+      "adj. 令人敬畏的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "enjoyable",
+    "trans": [
+      "adj. 令人愉悦的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "incredible",
+    "trans": [
+      "adj. 难以置信的、不可思议的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fantastic",
+    "trans": [
+      "adj. 了不起的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "excellent",
+    "trans": [
+      "adj. 优秀的、卓越的"
     ],
     "usphone": ""
   }
