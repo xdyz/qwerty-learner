@@ -98,6 +98,13 @@
     "usphone": ""
   },
   {
+    "name": "describe",
+    "trans": [
+      "v. 描述、形容"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "Time",
     "trans": [
       "n. 时间（统称）"
@@ -2954,6 +2961,76 @@
     "name": "Polar bear",
     "trans": [
       "n. 北极熊"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "appearance",
+    "trans": [
+      "n. 外表、外观、面貌"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "personality",
+    "trans": [
+      "n. 性格、个性、品格"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "emotion",
+    "trans": [
+      "n. 情绪、情感"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "feeling",
+    "trans": [
+      "n. 感受"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "tall",
+    "trans": [
+      "adj. 高的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "short",
+    "trans": [
+      "adj. 矮的、短的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "fat",
+    "trans": [
+      "adj. 肥胖的、肥的、胖的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "thin",
+    "trans": [
+      "adj. 瘦的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "old",
+    "trans": [
+      "adj. 年老的、陈旧的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "young",
+    "trans": [
+      "adj. 年轻的"
     ],
     "usphone": ""
   }
