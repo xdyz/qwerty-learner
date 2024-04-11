@@ -2047,7 +2047,7 @@
     "usphone": ""
   },
   {
-    "name": "dest",
+    "name": "desk",
     "trans": [
       "n. 办公桌"
     ],
@@ -3210,7 +3210,7 @@
     "usphone": ""
   },
   {
-    "name": "carreful",
+    "name": "careful",
     "trans": [
       "adj. 仔细的"
     ],
@@ -4036,7 +4036,7 @@
     "usphone": ""
   },
   {
-    "name": "amazingµ",
+    "name": "amazing",
     "trans": [
       "adj. 令人惊愕的、令人惊奇的"
     ],
@@ -4074,6 +4074,70 @@
     "name": "excellent",
     "trans": [
       "adj. 优秀的、卓越的"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "for",
+    "trans": [
+      "conj. 因为...、由于...",
+      "prep. 为了..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "and",
+    "trans": [
+      "conj. 和...、与...、然而..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "nor",
+    "trans": [
+      "conj. 也不..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "neither nor",
+    "trans": [
+      "conj. 既不...也不..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "or",
+    "trans": [
+      "conj. 或者"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "either or",
+    "trans": [
+      "conj. 二者选其一"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "but",
+    "trans": [
+      "conj. 但是..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yet",
+    "trans": [
+      "conj. 然而..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "so",
+    "trans": [
+      "conj. 所以..."
     ],
     "usphone": ""
   }
