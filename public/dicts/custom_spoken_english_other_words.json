@@ -1,0 +1,276 @@
+[
+  {
+    "name": "for",
+    "desc": "",
+    "trans": [
+      "conj. 因为...、由于...",
+      "prep. 为了..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "and",
+    "desc": "",
+    "trans": [
+      "conj. 和...、与...、而且...、然而..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "nor",
+    "desc": "",
+    "trans": [
+      "conj. 也不..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "neither nor",
+    "desc": "",
+    "trans": [
+      "conj. 既不...也不..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "or",
+    "desc": "",
+    "trans": [
+      "conj. 或者"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "either or",
+    "desc": "",
+    "trans": [
+      "conj. 二者选其一"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "but",
+    "trans": [
+      "conj. 但是..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "yet",
+    "desc": "",
+    "trans": [
+      "conj. 然而..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "so",
+    "trans": [
+      "conj. 所以..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "when",
+    "trans": [
+      "conj. 当...的时候"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "while",
+    "desc": "",
+    "trans": [
+      "conj. 在...期间"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "since",
+    "trans": [
+      "conj. 自...以来"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "until/till",
+    "trans": [
+      "conj. 直到...为止"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "before",
+    "desc": "",
+    "trans": [
+      "conj. 在...之前"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "after",
+    "trans": [
+      "conj. 在...之后"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "as",
+    "trans": [
+      "conj. 随着、当...时"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "as soon as",
+    "trans": [
+      "conj. 立刻、一...就..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "whenever",
+    "trans": [
+      "conj. 无论何时、每当..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "if",
+    "trans": [
+      "conj. 如果..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "unless",
+    "trans": [
+      "conj. 除非..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "as long as",
+    "trans": [
+      "conj. 只要..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "beacuse",
+    "trans": [
+      "conj. 因为..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "although",
+    "desc": [
+      "引导让步状语从句的连词",
+      "一般放在句首，后面不能用but"
+    ],
+    "trans": [
+      "conj. 虽然..., 尽管..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "though",
+    "desc": [
+      "引导让步状语从句的连词",
+      "句首、句中都可以，后面不能用but"
+    ],
+    "trans": [
+      "conj. 虽然..., 尽管..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "even if/though",
+    "desc": [
+      "引导让步状语从句的连词",
+      "语气比前面两个更强"
+    ],
+    "trans": [
+      "conj. 即使...、纵然...  "
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "while",
+    "desc": [
+      "引导让步状语从句的连词",
+      ""
+    ],
+    "trans": [
+      "conj. 虽然...、尽管..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "so that / in order that",
+    "desc": [
+      "引导目的状语从句的连词",
+      "You must speak louder so that/in order that you cen be heard by all."
+    ],
+    "trans": [
+      "conj. 以便...、因此..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "as",
+    "desc": [
+      "引导方式状语从句的连词",
+      "They did as I had asked"
+    ],
+    "trans": [
+      "conj. 照...的方式、以...的方式"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "like",
+    "desc": [
+      "引导方式状语从句的连词",
+      "She acts like she owns the place."
+    ],
+    "trans": [
+      "conj. 像...一样、像...那样"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "as if / though",
+    "desc": [
+      "引导方式状语从句的连词",
+      "He looks as if/ though he had been hit by lightning"
+    ],
+    "trans": [
+      "conj. 好像...、犹如..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "so ... that",
+    "desc": [
+      "引导结果状语从句的连词",
+      ""
+    ],
+    "trans": [
+      "conj. 如此...以致..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "such ... that",
+    "desc": [
+      "引导结果状语从句的连词",
+      "He is such a young boy that he can't go to school "
+    ],
+    "trans": [
+      "conj. 如此...以致..."
+    ],
+    "usphone": ""
+  }
+]

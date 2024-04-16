@@ -49,6 +49,13 @@
     "usphone": ""
   },
   {
+    "name": "look after",
+    "trans": [
+      "照顾、照看"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "go",
     "trans": [
       "v. 去，走"
@@ -2348,7 +2355,21 @@
     "usphone": ""
   },
   {
+    "name": "younger sister",
+    "trans": [
+      "n. 妹妹"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "big sister",
+    "trans": [
+      "n. 姐姐"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "older sister",
     "trans": [
       "n. 姐姐"
     ],
@@ -2369,7 +2390,21 @@
     "usphone": ""
   },
   {
+    "name": "younger brother",
+    "trans": [
+      "n. 弟弟"
+    ],
+    "usphone": ""
+  },
+  {
     "name": "big brother",
+    "trans": [
+      "n. 哥哥"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "older brother",
     "trans": [
       "n. 哥哥"
     ],
@@ -4078,66 +4113,121 @@
     "usphone": ""
   },
   {
-    "name": "for",
+    "name": "mud",
     "trans": [
-      "conj. 因为...、由于...",
-      "prep. 为了..."
+      "adj. 泥、烂泥"
     ],
     "usphone": ""
   },
   {
-    "name": "and",
+    "name": "muddy",
     "trans": [
-      "conj. 和...、与...、然而..."
+      "adj. 泥泞的、浑浊的"
     ],
     "usphone": ""
   },
   {
-    "name": "nor",
+    "name": "puddle",
     "trans": [
-      "conj. 也不..."
+      "n. 小池、水坑"
     ],
     "usphone": ""
   },
   {
-    "name": "neither nor",
+    "name": "muddy puddles",
     "trans": [
-      "conj. 既不...也不..."
+      "n. 泥坑(多个)"
     ],
     "usphone": ""
   },
   {
-    "name": "or",
+    "name": "alright",
     "trans": [
-      "conj. 或者"
+      "adj. 好的、没问题"
     ],
     "usphone": ""
   },
   {
-    "name": "either or",
+    "name": "run along",
     "trans": [
-      "conj. 二者选其一"
+      "去吧、走开 （关系好；或者父子之类的关系可以这么说，不然有点儿冒犯）"
     ],
     "usphone": ""
   },
   {
-    "name": "but",
+    "name": "jump in",
     "trans": [
-      "conj. 但是..."
+      "在...里面 跳"
     ],
     "usphone": ""
   },
   {
-    "name": "yet",
+    "name": "a lof of fun",
     "trans": [
-      "conj. 然而..."
+      "很多的快乐（快乐为不可数名词，所以要用量词修饰）"
     ],
     "usphone": ""
   },
   {
-    "name": "so",
+    "name": "jump into",
     "trans": [
-      "conj. 所以..."
+      "跳入到..."
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "show",
+    "trans": [
+      "v. 展示、展示给某人看"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "goodness",
+    "trans": [
+      "天呐"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "v. 猜"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "have/take a bath",
+    "trans": [
+      "洗澡"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "mess",
+    "trans": [
+      "n. 脏、不整洁"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "come and play",
+    "trans": [
+      "来玩儿、来一起玩"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "wear",
+    "trans": [
+      "v. 穿着"
+    ],
+    "usphone": ""
+  },
+  {
+    "name": "jump up and down",
+    "trans": [
+      "上下跳"
     ],
     "usphone": ""
   }
